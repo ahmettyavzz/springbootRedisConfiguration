@@ -1,2 +1,2 @@
 # springbootRedisConfiguration
-Spring boot redis configuration.
+Spring boot Redis configuration and CRUD.
